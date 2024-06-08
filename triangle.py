@@ -24,4 +24,3 @@ def perimeter(a, b, c):
     float: периметр треугольника.
     """
     return a + b + c
-
